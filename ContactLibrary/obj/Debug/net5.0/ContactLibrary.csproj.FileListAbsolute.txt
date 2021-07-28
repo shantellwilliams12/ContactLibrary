@@ -1,0 +1,15 @@
+/Users/shay/Projects/ContactLibrary/ContactLibrary/bin/Debug/net5.0/ContactLibrary.deps.json
+/Users/shay/Projects/ContactLibrary/ContactLibrary/bin/Debug/net5.0/ContactLibrary.runtimeconfig.json
+/Users/shay/Projects/ContactLibrary/ContactLibrary/bin/Debug/net5.0/ContactLibrary.runtimeconfig.dev.json
+/Users/shay/Projects/ContactLibrary/ContactLibrary/bin/Debug/net5.0/ContactLibrary.dll
+/Users/shay/Projects/ContactLibrary/ContactLibrary/bin/Debug/net5.0/ref/ContactLibrary.dll
+/Users/shay/Projects/ContactLibrary/ContactLibrary/bin/Debug/net5.0/ContactLibrary.pdb
+/Users/shay/Projects/ContactLibrary/ContactLibrary/obj/Debug/net5.0/ContactLibrary.csproj.AssemblyReference.cache
+/Users/shay/Projects/ContactLibrary/ContactLibrary/obj/Debug/net5.0/ContactLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shay/Projects/ContactLibrary/ContactLibrary/obj/Debug/net5.0/ContactLibrary.AssemblyInfoInputs.cache
+/Users/shay/Projects/ContactLibrary/ContactLibrary/obj/Debug/net5.0/ContactLibrary.AssemblyInfo.cs
+/Users/shay/Projects/ContactLibrary/ContactLibrary/obj/Debug/net5.0/ContactLibrary.csproj.CoreCompileInputs.cache
+/Users/shay/Projects/ContactLibrary/ContactLibrary/obj/Debug/net5.0/ContactLibrary.dll
+/Users/shay/Projects/ContactLibrary/ContactLibrary/obj/Debug/net5.0/ref/ContactLibrary.dll
+/Users/shay/Projects/ContactLibrary/ContactLibrary/obj/Debug/net5.0/ContactLibrary.pdb
+/Users/shay/Projects/ContactLibrary/ContactLibrary/obj/Debug/net5.0/ContactLibrary.genruntimeconfig.cache
