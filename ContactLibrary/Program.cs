@@ -30,8 +30,11 @@ namespace ContactLibrary
 
                         var newContact = new Contact(name, number);
                         phoneBook.AddContact(newContact);
+                        DateTime now = DateTime.Now;
+                        Console.WriteLine($"Contact {name} and {number} was successfully added at {DateTime.Now} ");
 
                         break;
+                         
 
                     case "2":
                         Console.WriteLine("Contact number: ");
@@ -54,6 +57,7 @@ namespace ContactLibrary
                         break;
 
                     case "x":
+                        Console.WriteLine("See you next time!!");
                         return;
 
                     default:
@@ -61,6 +65,7 @@ namespace ContactLibrary
                         break;
                 }
 
+                
                 Console.WriteLine("Select operation");
                 userInput = Console.ReadLine();
             }
